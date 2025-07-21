@@ -13,7 +13,7 @@ A single-page web application to demonstrate how combining a Systematic Investme
 - Accessibility (high contrast mode, ARIA labels).
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/yourusername/sip-loan-calculator.git`
+1. Clone the repo: `git clone https://github.com/MohdMunafKhan/Homobie-Assignment.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Open `http://localhost:5173` in your browser.
@@ -22,5 +22,5 @@ A single-page web application to demonstrate how combining a Systematic Investme
 - Deploy to Vercel or Netlify:
   1. Push to GitHub.
   2. Connect to Vercel/Netlify and deploy.
-- Live URL: [TBD, e.g., https://sip-loan-calculator.vercel.app]
+- Live URL: https://sip-home-loan-calculator.netlify.app/
 
